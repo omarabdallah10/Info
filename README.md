@@ -33,7 +33,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=7469B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=sass)&nbsp;
-![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&color=6420AA&logo=blazor)
+![Blazor](https://img.shields.io/badge/-blazor-05122A?style=flat&logo=blazor&logocolor=7469B6)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarabdallah10&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
