@@ -42,6 +42,6 @@
     <img src="https://komarev.com/ghpvc/?username=omarabdallah10&style=for-the-badge">
 </a>
 
-My name is Omar Abdallah
-My linked in is : www.linkedin.com/in/omar-abdallah-abdelrahman
+My name is Omar Abdallah,
+my linked in is : www.linkedin.com/in/omar-abdallah-abdelrahman ,
 I am an ITI graduate
