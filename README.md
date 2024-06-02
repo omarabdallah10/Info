@@ -36,7 +36,7 @@
 ![Blazor](https://img.shields.io/badge/-blazor-05122A?style=flat&logo=blazor&logocolor=7469B6)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarabdallah10&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarabdallahh&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=omarabdallahh&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=omarabdallahh&style=for-the-badge">
